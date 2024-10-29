@@ -1,0 +1,67 @@
+.about_box h2 {
+  font-size: 2em;
+  letter-spacing: 0.3em;
+  text-align: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.about_content {
+  width: 70%;
+  margin: 70px auto;
+  padding-bottom: 50px;
+}
+
+.about_content img {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.about_box h3 {
+  font-size: 1.5em;
+  letter-spacing: 0.7em;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.about_box p {
+  width: 1000px;
+  letter-spacing: 0.3em;
+}
+
+.about_name {
+  padding-bottom: 50px;
+  font-weight: bold;
+}
+
+.about_attention {
+  margin: 20px 0;
+  font-size: 0.8em;
+}
+
+.small_text {
+  padding-top: 10px;
+  font-size: 0.8em;
+}
+
+.about_me_content {
+  padding-bottom: 20px;
+}
+
+.about_link:hover {
+  color: coral;
+}
+
+@media screen and (max-width: 800px) {
+  .about_content {
+    width: 80%;
+    margin: 70px auto;
+  }
+
+  .about_box p {
+    width: 400px;
+    letter-spacing: 0.3em;
+  }
+}
