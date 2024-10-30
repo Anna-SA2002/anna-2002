@@ -20,7 +20,6 @@ export default function WORKS() {
         </ul>
       </div>
 
-      ////960×720 に画像をトリミングする
       <div className={styles.works_content_illust}>
         <ul className={styles.works_list}>
           <li>
