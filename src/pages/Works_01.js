@@ -27,7 +27,7 @@ export default function WORKS() {
               <div>
                 <Image
                   className={styles.works_list_img}
-                  src="/sample_01.png"
+                  src="/illust/01.png"
                   alt="Illust_01"
                   width={250}
                   height={250}
