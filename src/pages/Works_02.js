@@ -23,7 +23,7 @@ export default function WORKS() {
       <div className={styles.works_content_illust}>
         <ul className={styles.works_list}>
           <li>
-            <Link href="/Works_01">
+            <Link href="https://toana-blog.com/">
               <div>
                 <Image
                   className={styles.works_list_img}
